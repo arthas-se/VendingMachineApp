@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
 
-namespace Task2;
+namespace VendingMachineApp;
 
 partial class RoleSelectionForm
 {

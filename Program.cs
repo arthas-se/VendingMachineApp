@@ -1,4 +1,4 @@
-namespace Task2;
+namespace VendingMachineApp;
 
 internal static class Program
 {

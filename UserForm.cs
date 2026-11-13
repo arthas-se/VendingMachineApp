@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Data;
 using System.IO;
 using System.Windows.Forms;
+using VendingMachineApp.Core.Interfaces;
+using VendingMachineApp.Core.Models;
+using VendingMachineApp.BusinessLogic;
 
-namespace Task2;
+namespace VendingMachineApp;
 
 public partial class UserForm : Form
 {
