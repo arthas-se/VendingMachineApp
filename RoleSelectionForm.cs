@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
+using VendingMachineApp.Core.Interfaces;
+using VendingMachineApp.Core.Models;
+using VendingMachineApp.BusinessLogic;
 
-namespace Task2;
+namespace VendingMachineApp;
 
 public partial class RoleSelectionForm : Form
 {

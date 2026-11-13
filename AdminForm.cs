@@ -5,8 +5,11 @@ using System.Globalization;
 using System.IO;
 using System.Text;
 using System.Windows.Forms;
+using VendingMachineApp.Core.Interfaces;
+using VendingMachineApp.Core.Models;
+using VendingMachineApp.BusinessLogic;
 
-namespace Task2;
+namespace VendingMachineApp;
 
 public partial class AdminForm : Form
 {
